@@ -9,7 +9,7 @@ Select an Amazon Machine Image (AMI). An AMI is a template that contains the ope
 ## Step 3: Choose Instance Type                                                                  
 Select the instance type based on required CPU, memory, storage, and network capacity.
                             
-## Step 4: Configure Key Pair                                              
+## Step 4: Configure Key Pair                                                                
 Create or select a key pair for secure login. The public key is stored on the instance and the private key is stored on your local machine.
                                                   
 ## Step 5: Configure Network

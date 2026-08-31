@@ -11,7 +11,7 @@ Select the instance type based on required CPU, memory, storage, and network cap
                             
 ## Step 4: Configure Key Pair                                              
 Create or select a key pair for secure login. The public key is stored on the instance and the private key is stored on your local machine.
-
+                          
 ## Step 5: Configure Network
 Launch the instance in a Virtual Private Cloud (VPC) and select a subnet. By default, the instance is launched in a public subnet, which assigns a public IP address and allows internet access.
 

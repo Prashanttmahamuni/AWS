@@ -2,7 +2,7 @@
 
 ## Step 1: Name Your Instance
 Assign a name to your instance for easy identification. This name is created as a tag where the key is "Name" and the value is the name you provide.
-
+                
 ## Step 2: Choose AMI (Operating System)
 Select an Amazon Machine Image (AMI). An AMI is a template that contains the operating system and required software to launch the instance.
 

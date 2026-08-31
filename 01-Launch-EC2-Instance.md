@@ -5,7 +5,7 @@ Assign a name to your instance for easy identification. This name is created as 
                 
 ## Step 2: Choose AMI (Operating System)
 Select an Amazon Machine Image (AMI). An AMI is a template that contains the operating system and required software to launch the instance.
-
+          
 ## Step 3: Choose Instance Type
 Select the instance type based on required CPU, memory, storage, and network capacity.
 
